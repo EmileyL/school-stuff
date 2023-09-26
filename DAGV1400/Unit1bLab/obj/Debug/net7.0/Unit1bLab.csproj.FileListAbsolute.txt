@@ -1,0 +1,14 @@
+c:\Users\owca\Documents\Github\school-stuff\DAGV1400\Unit1bLab\bin\Debug\net7.0\Unit1bLab.exe
+c:\Users\owca\Documents\Github\school-stuff\DAGV1400\Unit1bLab\bin\Debug\net7.0\Unit1bLab.deps.json
+c:\Users\owca\Documents\Github\school-stuff\DAGV1400\Unit1bLab\bin\Debug\net7.0\Unit1bLab.runtimeconfig.json
+c:\Users\owca\Documents\Github\school-stuff\DAGV1400\Unit1bLab\bin\Debug\net7.0\Unit1bLab.dll
+c:\Users\owca\Documents\Github\school-stuff\DAGV1400\Unit1bLab\bin\Debug\net7.0\Unit1bLab.pdb
+c:\Users\owca\Documents\Github\school-stuff\DAGV1400\Unit1bLab\obj\Debug\net7.0\Unit1bLab.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\owca\Documents\Github\school-stuff\DAGV1400\Unit1bLab\obj\Debug\net7.0\Unit1bLab.AssemblyInfoInputs.cache
+c:\Users\owca\Documents\Github\school-stuff\DAGV1400\Unit1bLab\obj\Debug\net7.0\Unit1bLab.AssemblyInfo.cs
+c:\Users\owca\Documents\Github\school-stuff\DAGV1400\Unit1bLab\obj\Debug\net7.0\Unit1bLab.csproj.CoreCompileInputs.cache
+c:\Users\owca\Documents\Github\school-stuff\DAGV1400\Unit1bLab\obj\Debug\net7.0\Unit1bLab.dll
+c:\Users\owca\Documents\Github\school-stuff\DAGV1400\Unit1bLab\obj\Debug\net7.0\refint\Unit1bLab.dll
+c:\Users\owca\Documents\Github\school-stuff\DAGV1400\Unit1bLab\obj\Debug\net7.0\Unit1bLab.pdb
+c:\Users\owca\Documents\Github\school-stuff\DAGV1400\Unit1bLab\obj\Debug\net7.0\Unit1bLab.genruntimeconfig.cache
+c:\Users\owca\Documents\Github\school-stuff\DAGV1400\Unit1bLab\obj\Debug\net7.0\ref\Unit1bLab.dll

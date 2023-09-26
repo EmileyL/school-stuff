@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\owca\\Documents\\Github\\school-stuff\\DAGV1400\\CsharpProjects\\TestProject\\TestProject.csproj": {}
+    "c:\\Users\\owca\\Documents\\Github\\school-stuff\\DAGV1400\\Unit1bLab\\Unit1bLab.csproj": {}
   },
   "projects": {
-    "c:\\Users\\owca\\Documents\\Github\\school-stuff\\DAGV1400\\CsharpProjects\\TestProject\\TestProject.csproj": {
+    "c:\\Users\\owca\\Documents\\Github\\school-stuff\\DAGV1400\\Unit1bLab\\Unit1bLab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\owca\\Documents\\Github\\school-stuff\\DAGV1400\\CsharpProjects\\TestProject\\TestProject.csproj",
-        "projectName": "TestProject",
-        "projectPath": "c:\\Users\\owca\\Documents\\Github\\school-stuff\\DAGV1400\\CsharpProjects\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "c:\\Users\\owca\\Documents\\Github\\school-stuff\\DAGV1400\\Unit1bLab\\Unit1bLab.csproj",
+        "projectName": "Unit1bLab",
+        "projectPath": "c:\\Users\\owca\\Documents\\Github\\school-stuff\\DAGV1400\\Unit1bLab\\Unit1bLab.csproj",
         "packagesPath": "C:\\Users\\owca\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\owca\\Documents\\Github\\school-stuff\\DAGV1400\\CsharpProjects\\TestProject\\obj\\",
+        "outputPath": "c:\\Users\\owca\\Documents\\Github\\school-stuff\\DAGV1400\\Unit1bLab\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\owca\\AppData\\Roaming\\NuGet\\NuGet.Config"

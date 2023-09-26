@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "TestProject/1.0.0": {
+      "Unit1bLab/1.0.0": {
         "runtime": {
-          "TestProject.dll": {}
+          "Unit1bLab.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "TestProject/1.0.0": {
+    "Unit1bLab/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
