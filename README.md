@@ -1,3 +1,3 @@
 # school-stuff
 
-for both of my classes, DAGV 1200
+for my class, DAGV 1200
